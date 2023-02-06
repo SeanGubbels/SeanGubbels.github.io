@@ -1,1 +1,1 @@
-# SeanGubbels.github.io
+# seangubbels.github.io
