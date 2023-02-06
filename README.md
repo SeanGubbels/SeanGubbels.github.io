@@ -5,4 +5,4 @@ Github Page to share my projects.
 
 
 ### Projects
-1. [hellow-world](https://github.com/SeanGubbels/hello-world#hello-world)
+1. [hello-world](https://github.com/SeanGubbels/hello-world#hello-world)
